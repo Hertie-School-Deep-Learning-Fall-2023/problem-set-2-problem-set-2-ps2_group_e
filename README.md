@@ -2,6 +2,4 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12225284&assignment_repo_type=AssignmentRepo)
 # Problem-Set-2
 
-**The LaTeX file for our assignment can be accessed [here](https://www.overleaf.com/9634665983nsfkjdtgtzsm).**
-
 If you have important questions or believe to have spotted an error, please open an issue on your repository and mention the teaching assistant with @chiara-fb .
